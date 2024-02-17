@@ -1,6 +1,6 @@
 # Java Inheritance Employee Management
 
-This repository demonstrates the concept of inheritance in Java through an employee management system. It includes classes for different types of employees, such as Analysts and Salespersons, showcasing salary raises and bonuses.
+This repository demonstrates the concept of inheritance in Java through an employee management system that shows code reduction using Inheritance in JAVA. It includes classes for different types of employees, such as Analysts and Salespersons, showcasing salary raises and bonuses.
 
 ## Inheritance in Java
 
