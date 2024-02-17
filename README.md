@@ -16,7 +16,7 @@ The repository consists of the following Java classes:
 ## Usage
 
 To use this project:
-1. Clone the repository: `git clone https://github.com/abhipatel35/java-inheritance-employee-management/`
+1. Clone the repository: `git clone https://github.com/abhipatel35/java-inheritance-employee-management.git`
 2. Navigate to the cloned directory: `cd java-inheritance-employee-management`
 3. Compile the Java files: `javac *.java`
 4. Run the desired class: `java <ClassName>`
